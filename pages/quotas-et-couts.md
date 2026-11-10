@@ -6,7 +6,7 @@
 |---|---|---|
 | **GitHub** (compte, dépôt public, site en ligne) | Oui, sans limite pour un site de cours | — |
 | **Atelier (Codespaces)** | **60 heures par mois** d'atelier ouvert, 15 Go de stockage | Sans carte bancaire enregistrée : l'atelier est **bloqué** jusqu'au mois suivant, **jamais facturé**. Ton site en ligne continue de fonctionner. |
-| **Mistral** | Offre gratuite avec un nombre limité d'échanges | **Offre Éducation à tarif réduit**, avec une **adresse académique** : [s'inscrire à l'offre Éducation](https://admin.mistral.ai/subscription/upgrade/student) (connexion à ton compte Mistral demandée). Prix public affiché le 10/11/2026 : **5,99 $ HT par mois** au lieu de 14,99 $ pour l'offre Pro. |
+| **Mistral** | Offre gratuite avec un nombre limité d'échanges | **Offre Éducation** (forfait Pro à prix réduit), avec ton **adresse académique** : **7,19 € par mois**, ou **69 € par an** (5,75 € par mois), taxes incluses. Comprend 12,75 € de crédits API par mois. [S'inscrire à l'offre Éducation](https://admin.mistral.ai/subscription/upgrade/student) (connexion à ton compte Mistral demandée). |
 
 ## Bons réflexes
 
