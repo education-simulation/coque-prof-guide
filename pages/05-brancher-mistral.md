@@ -2,7 +2,7 @@
 
 **Mistral Vibe** est ton assistant. Son panneau est **à droite** de l'atelier (icône « M » orange dans la barre de gauche s'il est fermé).
 
-Il te faut un **compte Mistral** (gratuit pour commencer, par exemple avec ton adresse académique) : [chat.mistral.ai](https://chat.mistral.ai).
+Il te faut un **compte Mistral** : [chat.mistral.ai](https://chat.mistral.ai). Crée-le de préférence avec ton **adresse académique** : l'offre gratuite suffit pour commencer, et l'adresse académique te donne accès à l'**offre Éducation à tarif réduit** si tu en as besoin plus tard (voir [Gratuit ? Jusqu'où ?](#/couts)).
 
 > ⚡ **Fais les clics 1 à 4 d'une traite**, sans t'interrompre : la demande de connexion expire au bout de quelques minutes.
 
