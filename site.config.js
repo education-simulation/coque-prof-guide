@@ -25,7 +25,7 @@ window.SITE = {
         { id: "education", titre: "2. GitHub Education (facultatif)", fichier: "pages/02-github-education.md" },
         { id: "copier", titre: "3. Copier le modèle", fichier: "pages/03-copier-le-modele.md" },
         { id: "atelier", titre: "4. Ouvrir ton atelier", fichier: "pages/04-ouvrir-atelier.md" },
-        { id: "mistral", titre: "5. Brancher Mistral", fichier: "pages/05-brancher-mistral.md" },
+        { id: "mistral", titre: "5. Brancher ton assistant", fichier: "pages/05-brancher-mistral.md" },
         { id: "bonjour", titre: "6. Dire bonjour", fichier: "pages/06-dire-bonjour.md" },
         { id: "enligne", titre: "7. Mettre en ligne", fichier: "pages/07-mettre-en-ligne.md" },
       ],

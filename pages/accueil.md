@@ -2,7 +2,7 @@
 
 Ce guide t'emmène, pas à pas, **de zéro jusqu'à ton site de cours en ligne**.
 Tu n'as **rien à installer** : tout se passe dans ton navigateur (Chrome conseillé).
-Ensuite, c'est l'assistant **Mistral** qui te guide, en français, pour faire évoluer ton site.
+Ensuite, c'est **l'assistant de ton choix** (Mistral, ChatGPT ou Claude) qui te guide, en français, pour faire évoluer ton site.
 
 ## Ce qu'il te faut
 
@@ -18,10 +18,10 @@ Ensuite, c'est l'assistant **Mistral** qui te guide, en français, pour faire é
 | 2. GitHub Education | Facultatif : demander les avantages enseignants | 5 min + attente |
 | 3. Copier le modèle | Un bouton, un nom, « Public » | 2 min |
 | 4. Ouvrir ton atelier | Lancer l'atelier et patienter | **5 à 10 min** |
-| 5. Brancher Mistral | Te connecter et lui faire confiance | 3 min |
+| 5. Brancher ton assistant | Choisir Mistral, ChatGPT ou Claude, et te connecter | 3 min |
 | 6. Dire bonjour | Répondre à ses 4 questions | 5 min |
 | 7. Mettre en ligne | Un réglage sur GitHub, une seule fois | 5 min |
 
-> 💡 **Le mot à retenir : l'atelier.** C'est l'onglet de ton navigateur intitulé **« RASF — Atelier … »**. C'est là que tu parles à Mistral. Ton site s'ouvre dans **un autre onglet**, à côté.
+> 💡 **Le mot à retenir : l'atelier.** C'est l'onglet de ton navigateur intitulé **« RASF — Atelier … »**. C'est là que tu parles à ton assistant. Ton site s'ouvre dans **un autre onglet**, à côté.
 
 Commence par **[l'étape 1 →](#/compte)**

@@ -1,4 +1,16 @@
-# 5. Brancher Mistral
+# 5. Brancher ton assistant
+
+Tu as le choix entre **trois assistants**. Choisis-en **un seul** : son icône est dans la barre tout à gauche de l'atelier.
+
+| Assistant | Ce qu'il te faut | Prix |
+|---|---|---|
+| **Mistral** (le « M » orange) | Un compte Mistral, de préférence avec ton adresse académique | Gratuit pour commencer ; offre Éducation à prix réduit |
+| **ChatGPT** (l'extension « Codex ») | Un compte ChatGPT | Gratuit pour commencer (usage limité) |
+| **Claude** (l'étoile orange) | Un abonnement Claude Pro | Payant |
+
+Tous les trois lisent le même mode d'emploi, et la suite du guide marche pareil. **Les captures ci-dessous montrent Mistral** ; pour ChatGPT et Claude, voir [plus bas](#/mistral).
+
+## Avec Mistral
 
 **Mistral Vibe** est ton assistant. Son panneau est **à droite** de l'atelier (icône « M » orange dans la barre de gauche s'il est fermé).
 
@@ -33,5 +45,19 @@ Un **nouvel onglet** s'ouvre : connecte-toi à ton compte Mistral, puis, sur l'�
 En bas du panneau Mistral, clique sur **Dossier non approuvé**, puis sur le bouton vert **Faire confiance au dossier**.
 
 ![La fenêtre Mistral : bouton vert « Faire confiance au dossier »](captures/13-6-mistral-faire-confiance-au-dossier-propre.png)
+
+## Avec ChatGPT (Codex)
+
+1. Clique sur l'icône **Codex** dans la barre de gauche.
+2. Clique sur **Sign in with ChatGPT** : un onglet s'ouvre, connecte-toi à ton compte ChatGPT et autorise.
+3. **Reviens sur l'onglet de l'atelier** : le panneau Codex est prêt.
+
+## Avec Claude
+
+1. Clique sur l'icône **Claude** (étoile orange) dans la barre de gauche.
+2. Choisis la connexion avec ton **compte Claude** (abonnement Pro) : un onglet s'ouvre, connecte-toi et autorise.
+3. **Reviens sur l'onglet de l'atelier** : le panneau Claude est prêt.
+
+*Captures pour ChatGPT et Claude : à venir.*
 
 **Suite : [6. Dire bonjour →](#/bonjour)**

@@ -1,6 +1,6 @@
 # 4. Ouvrir ton atelier
 
-L'**atelier** (GitHub l'appelle « Codespace ») est un ordinateur prêt à l'emploi, **dans un onglet de ton navigateur**. Ton assistant Mistral y est déjà installé.
+L'**atelier** (GitHub l'appelle « Codespace ») est un ordinateur prêt à l'emploi, **dans un onglet de ton navigateur**. Les assistants Mistral, ChatGPT et Claude y sont déjà installés.
 
 ## Le créer (la première fois)
 
@@ -34,4 +34,4 @@ Ensuite, ton site s'ouvre tout seul **dans un nouvel onglet**. Chrome a bloqué 
 
 Ne crée **pas** un nouvel atelier : rouvre **le même** sur **[github.com/codespaces](https://github.com/codespaces)**. Il redémarre en 30 secondes environ.
 
-**Suite : [5. Brancher Mistral →](#/mistral)**
+**Suite : [5. Brancher ton assistant →](#/mistral)**
